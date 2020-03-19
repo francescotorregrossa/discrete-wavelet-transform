@@ -34,4 +34,4 @@ The à trous algorithm also requires a second parameter `k` which represents the
 
 ![](dwt.png) <br> DWT | ![](a_trous_1.png) <br> À trous, first wavelet plane
 :----:|:----:
-![](a_trous_5.png) <br> **À trous, fifth wavelet plane** | ![](a_trous_1.png) <br> **À trous, residual plane**
+![](a_trous_5.png) <br> **À trous, fifth wavelet plane** | ![](a_trous_residual.png) <br> **À trous, residual plane**
